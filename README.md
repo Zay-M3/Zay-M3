@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zay-M3 and I'm a passionate developer from Colombia</h2>
+<h2 align="left">Hi 👋! My name is Oscar Estrada and I'm a passionate developer from Colombia</h2>
 
 ###
 
