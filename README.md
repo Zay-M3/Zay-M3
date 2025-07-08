@@ -1,77 +1,88 @@
-<h2 align="left">Hi 👋! My name is Oscar Estrada and I'm a passionate developer from Colombia</h2>
+<h1 align="center">✨ Oscar David Estrada Betancourt ✨</h1>
+<table align="center">
+  <tr>
+    <td>
+      <p align="left">
+        <b>Passionate Full-Stack Developer from Colombia 🇨🇴</b><br>
+        <em>I love building things that live on the web and automate the world 🌐⚙️</em>
+      </p>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/181848019?v=4" width="120" style="border-radius: 50%;" alt="Oscar Estrada" />
+    </td>
+  </tr>
+</table>
 
-###
 
-<div align="center" width="100vh">
- 
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Zay-M3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zay-M3&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+---
+
+### 📊 GitHub Stats & Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zay-M3&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zay-M3&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="170" />
 </div>
 
-###
+---
 
- <img src="https://avatars.githubusercontent.com/u/181848019?v=4" height="150" style="border-radius: 50%;" align="right" alt="Zay-M3 profile picture" />
+### 🧠 Skills & Tools
 
-###
-
-<div align="left">
-  <b>Technologies & Tools:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+ <img src="https://camo.githubusercontent.com/cb8355753204396c348b0a1b2f903148724a6f81dcaf554194a7e82745f86cbf/68747470733a2f2f72617763646e2e6769746861636b2e636f6d2f64657669636f6e732f64657669636f6e2f396336626664623937383363646665313031383636366564373661646366643365616236666164362f69636f6e732f646a616e676f2f646a616e676f2d6f726967696e616c2e737667" alt="django" width="40" height="40" data-canonical-src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/django/django-original.svg" style="max-width: 100%;">
+ <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
+ <img src="https://camo.githubusercontent.com/88273cad1f80889678df6e281c8737bff28b76eba1dae7055ddf15b7f94107e1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578742d6a732e737667" alt="nextjs" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/next-js.svg" style="max-width: 100%;">
+ <img src="https://camo.githubusercontent.com/9e736e85ce744551ad8912d9b97e973f93caedb1c8c142fb535d3042bcfa322c/68747470733a2f2f72617763646e2e6769746861636b2e636f6d2f64657669636f6e732f64657669636f6e2f396336626664623937383363646665313031383636366564373661646366643365616236666164362f69636f6e732f6e67696e782f6e67696e782d6f726967696e616c2e737667" alt="nginx" width="40" height="40" data-canonical-src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nginx/nginx-original.svg" style="max-width: 100%;">
+ <img src="https://camo.githubusercontent.com/ddc01fe7dcb3a681bd16ea292fb41b453ebbc8a9368d5ef50eeb62e512950615/68747470733a2f2f72617763646e2e6769746861636b2e636f6d2f64657669636f6e732f64657669636f6e2f396336626664623937383363646665313031383636366564373661646366643365616236666164362f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e737667" alt="postgresql" width="40" height="40" data-canonical-src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
+ <img src="https://camo.githubusercontent.com/b99124a67161ca2c55d72026d7db31c4306a26e9b76b9e82da70de8060908ae2/68747470733a2f2f72617763646e2e6769746861636b2e636f6d2f64657669636f6e732f64657669636f6e2f396336626664623937383363646665313031383636366564373661646366643365616236666164362f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="react" width="40" height="40" data-canonical-src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" style="max-width: 100%;">
 </div>
 
-###
+---
 
-<div align="left">
-  <b>Featured Projects:</b>
-  <ul>
-    <li><a href="https://github.com/Zay-M3/FFinance">FFinance</a> - Free tools for new users of the US stock market.</li>
-    <li><a href="https://github.com/Zay-M3/api-database-mongoDB">API Database MongoDB</a> - RESTful API with Node.js, Express, and MongoDB for user management.</li>
-    <li><a href="https://github.com/Zay-M3/Portafolio">Portafolio</a> - My personal portfolio showcasing my projects and skills.</li>
-    <li><a href="https://github.com/Zay-M3/scripts-vbs">Scripts-VBS</a> - Automation scripts for various sectors using VBA and Python.</li>
-  </ul>
-  <i>For more projects, visit my <a href="https://github.com/Zay-M3?tab=repositories">repositories</a>.</i>
-</div>
+### 🚀 Featured Projects
+🌟 [**MMaintenance**]
+Maintenace sistem for industrial company, implement in Celco S.A.S.
 
-###
+🌟 [**FFinance**](https://github.com/Zay-M3/FFinance)  
+Tools to help new users of the US stock market analyze and explore data.
 
-<div align="left">
-  <b>Contact:</b><br>
+🌟 [**API Database MongoDB**](https://github.com/Zay-M3/api-database-mongoDB)  
+REST API for user management with Node.js, Express and MongoDB.
+
+🌟 [**Portafolio**](https://github.com/Zay-M3/Portafolio)  
+My personal website showcasing projects, technologies and experience.
+
+🌟 [**Scripts-VBS**](https://github.com/Zay-M3/scripts-vbs)  
+Automation scripts for various sectors using VBA and Python.
+
+> 📁 See more in my [repositories](https://github.com/Zay-M3?tab=repositories)
+
+---
+
+### 📬 Contact Me
+
+<p align="center">
   <a href="mailto:oscardavidestradabetancourth@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/oscar-david-estrada-betancourt-491732331/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+### 📈 Contribution Graph
 
-###
-
-<!-- Contributions section -->
-<!-- GitHub profile contributions calendar -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zay-M3&theme=dracula" alt="Zay-M3's Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zay-M3&theme=tokyonight&area=true&hide_border=false" width="100%" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zay-M3&theme=dracula" alt="Zay-M3's GitHub Contribution Summary" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zay-M3&theme=tokyonight" width="100%" />
 </div>
