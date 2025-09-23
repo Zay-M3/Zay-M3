@@ -1,21 +1,4 @@
 <h1 align="center">✨ Oscar David Estrada Betancourt ✨</h1>
-<table align="center">
-  <tr>
-    <td>
-      <p align="left">
-        <b>Passionate Full-Stack Developer from Colombia 🇨🇴</b><br>
-        <em>I love building things that live on the web and automate the world 🌐⚙️</em>
-      </p>
-    </td>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/181848019?v=4" width="120" style="border-radius: 50%;" alt="Oscar Estrada" />
-    </td>
-  </tr>
-</table>
-
-
----
-
 ### 📊 GitHub Stats & Languages
 
 <div align="center">
