@@ -1,4 +1,4 @@
-<h1 align="center">✨ Oscar David Estrada Betancourt ✨</h1>
+<h1 align="center"> Oscar Estrada ( Z4y-M3 )</h1>
 ### 📊 GitHub Stats & Languages
 
 <div align="center">
@@ -68,9 +68,9 @@ Automation scripts for various sectors using VBA and Python.
 ### 📈 Contribution Graph
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Zay-M3&theme=radical&no-frame=true&margin-w=10" />
-</p>
+</p> 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zay-M3&theme=tokyonight&area=true&hide_border=false" width="100%" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zay-M3&theme=tokyonight&area=true&hide_border=false" width="100%" /> -->
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zay-M3&theme=tokyonight" width="100%" />
 </div>
