@@ -1,4 +1,4 @@
-<h1 align="center"> Oscar Estrada ( Z4y-M3 )</h1>
+<h1 align="center"> Oscar Estrada ( Z4y-M3 ) Open source enthusiast </h1>
 ### 📊 GitHub Stats & Languages
 
 <div align="center">
