@@ -1,5 +1,4 @@
 <h1 align="center"> Oscar Estrada ( Z4y-M3 ) Open source enthusiast </h1>
-### 📊 GitHub Stats & Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zay-M3&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false" height="170" />
@@ -8,7 +7,7 @@
 
 ---
 
-### 🧠 Skills & Tools
+### Skills & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
@@ -28,27 +27,27 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 🌟 [**MMaintenance**]
-Maintenace sistem for industrial company, implement in Celco S.A.S.
+Maintenace sistem for industrial company, implement in Celco S.A.S. This is a system for the maintenance area in insdustrial
 
-🌟 [**FFinance**](https://github.com/Zay-M3/FFinance)  
-Tools to help new users of the US stock market analyze and explore data.
+🌟 [**ModelsIALocalDocker**](https://github.com/Zay-M3/models-ai-local-docker)  
+This is a repostiry with a collection of diferents IA models for deploy in local with docker
 
-🌟 [**API Database MongoDB**](https://github.com/Zay-M3/api-database-mongoDB)  
-REST API for user management with Node.js, Express and MongoDB.
+🌟 [**EnglishOllama**](https://github.com/Zay-M3/english-ollama-local)  
+This is a IA app where you can learning english, with feedback in real-time and more features, you can run this in your local machine with diferent free models of IA
+
+🌟 [**GetInfo**](https://github.com/Zay-M3/get-info-windows-s-rust)  
+Here you can find a simple .exe app, where with that you can extraed all information of your server system for windows
 
 🌟 [**Portafolio**](https://github.com/Zay-M3/Portafolio)  
 My personal website showcasing projects, technologies and experience.
-
-🌟 [**Scripts-VBS**](https://github.com/Zay-M3/scripts-vbs)  
-Automation scripts for various sectors using VBA and Python.
 
 > 📁 See more in my [repositories](https://github.com/Zay-M3?tab=repositories)
 
 ---
 
-### 📬 Contact Me
+### Contact Me
 
 <p align="center">
   <a href="mailto:oscardavidestradabetancourth@gmail.com">
@@ -65,7 +64,7 @@ Automation scripts for various sectors using VBA and Python.
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Zay-M3&theme=radical&no-frame=true&margin-w=10" />
 </p> 
