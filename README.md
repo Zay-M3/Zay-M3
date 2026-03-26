@@ -3,10 +3,8 @@
   <strong>Software Developer | AI & Backend Specialist | Open Source Enthusiast</strong>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zay-M3&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zay-M3&layout=compact&langs_count=6&theme=tokyonight" height="170" />
-</div>
+![Banner de Perfil - Ingeniero de IA y Desarrollador Web3](/banner.png)
+
 
 ---
 
@@ -48,6 +46,10 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zay-M3&theme=tokyonight" width="100%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zay-M3&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zay-M3&layout=compact&langs_count=6&theme=tokyonight" height="170" />
 </div>
 
 ---
