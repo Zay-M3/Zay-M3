@@ -45,11 +45,12 @@
 ### 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zay-M3&theme=tokyonight" width="100%" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zay-M3&theme=tokyonight" width="100%" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zay-M3&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zay-M3&layout=compact&langs_count=6&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zay-M3&layout=compact&langs_count=6&theme=tokyonight" height="170" /> -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zay-M3&theme=tokyonight&hide_border=true&border_radius=4.7&card_width=1000&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
 ---
